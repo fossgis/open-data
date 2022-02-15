@@ -13,4 +13,6 @@
 
  Der rechtsverbindliche Lizenzvertrag ist unter http://opendatacommons.org/licenses/odbl/1.0/ zu finden.
 
+ Eine Beschreibung des Datenbestands ist im [PDF des BKG](datensatzbeschreibung_poi_osm_Q22021.pdf) zu finden.
+
  Das BKG und der FOSSGIS e.V. sind sich darüber einig, dass das BKG in die „Contributor List“ von OSM aufgenommen wird.
